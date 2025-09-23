@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyMedievalOverhaulAdaptivePrimitiveProgStorage_HiddenDesignators</defName>
+		<hiddenDesignators>
+			<li>DankPyon_WoodLogs1x1c</li>
+			<li>DankPyon_WoodLogs2x2c</li>
+			<li>DankPyon_WoodLogs1x2c</li>
+		</hiddenDesignators>
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>
+
+        
